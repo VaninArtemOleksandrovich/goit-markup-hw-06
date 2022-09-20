@@ -10,6 +10,7 @@
   --black-background-color: #2f303a;
   --grey-bcg: #f5f4fa;
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  font-variant: calc();
 }
 
 body {
