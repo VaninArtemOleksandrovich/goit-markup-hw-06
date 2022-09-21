@@ -883,7 +883,7 @@ padding-top:45px;
 
 .input-checkbox:checked + .checkbox {
   background-color: var(--accent-color);
-  background-image: url(../images/symbol-defs.svg#icon-galka);
+  background-image: url(../images/galka.svg);
   border: none;
   background-repeat: no-repeat;
   background-position: center;
