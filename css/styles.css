@@ -878,12 +878,12 @@ p {
 
 .input-checkbox:checked + .checkbox {
   background-color: var(--accent-color);
-  background-image: url(../images/galka.svg);
+  background-image: url(../images/galochka\(1\).svg);
   border: none;
   background-repeat: no-repeat;
   background-position: center;
   transition: background-color 250ms var(--timing-function);
-  background-size: 6px;
+  background-size: 12px;
 }
 
 .backdroporm-btn {
