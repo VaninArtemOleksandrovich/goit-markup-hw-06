@@ -883,6 +883,7 @@ p {
   background-repeat: no-repeat;
   background-position: center;
   transition: background-color 250ms var(--timing-function);
+  background: size 6px;
 }
 
 .backdroporm-btn {
