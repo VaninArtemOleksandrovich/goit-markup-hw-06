@@ -961,6 +961,12 @@ p {
   outline: none;
 }
 
+button {
+  cursor: pointer;
+}
+input {
+  cursor: pointer;
+}
 .form {
   padding: 40px;
   text-align: start;
