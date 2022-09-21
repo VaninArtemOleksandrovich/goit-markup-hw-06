@@ -691,7 +691,7 @@ p {
     1px 4px 6px rgba(0, 0, 0, 0.16);
   outline: none;
 }
-.icon-close {
+.icon-close :hover {
   fill: var(--logo-text-color);
 }
 .closebtn {
