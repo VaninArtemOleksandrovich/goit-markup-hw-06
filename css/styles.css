@@ -822,6 +822,7 @@ p {
   outline: none;
   transition: border 250ms var(--timing-function);
   transition: fill 250ms var(--timing-function);
+  padding-left: 40px;
 }
 
 .form-input:hover,
