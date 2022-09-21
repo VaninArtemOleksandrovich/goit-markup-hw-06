@@ -932,7 +932,7 @@ p {
   position: fixed;
   top: 0px;
   left: 0px;
-  transition: opacity 2500ms var(--timing-function), visibility 2500ms var(--timing-function);
+  transition: opacity 250ms var(--timing-function), visibility 250ms var(--timing-function);
   background-color: rgba(0, 0, 0, 0.2);
   visibility: visible;
   position: fixed;
