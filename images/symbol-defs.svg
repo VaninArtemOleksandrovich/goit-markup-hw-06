@@ -114,5 +114,8 @@
 <symbol id="icon-mobile" viewBox="0 0 32 32">
 <path d="M23 0h-14c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM12 1.5h8v1h-8v-1zM16 30c-1.105 0-2-0.895-2-2s0.895-2 2-2 2 0.895 2 2-0.895 2-2 2zM24 24h-16v-20h16v20z"></path>
 </symbol>
+<symbol id="icon-icon-plane" viewBox="0 0 32 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M32 0l-32 18 10.227 3.788 15.773-14.788-11.998 16.186 0.010 0.004-0.012-0.004v8.814l5.735-6.691 7.265 2.691 5-28z"></path>
+</symbol>
 </defs>
 </svg>

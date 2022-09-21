@@ -438,6 +438,8 @@ p {
 /* Footer */
 .footer {
   background-color: var(--black-background-color);
+  padding-top: 20px;
+ 
 }
 .footer-logo-margin {
   margin-left: auto;
@@ -546,13 +548,16 @@ p {
 }
 .fotlist111 {
   display: flex;
+
 }
 .footlist1 {
   color: var(--white-text-color);
   width: 206px;
   height: 230px;
-  margin-left: 100px;
+  margin-left: 50px;
   padding-top: 50px;
+  margin-right:120px;
+  
 }
 
 .circ {
@@ -716,9 +721,9 @@ p {
 }
 /*  foot-icon*/
 .subscribe-title {
-  font-size: 14px;
+  font-size: 17px;
   text-transform: uppercase;
-
+padding-top:45px;
   margin-bottom: 20px;
 
   color: var(--white-text-color);
@@ -908,4 +913,5 @@ p {
   margin-right: auto;
   margin-top: 30px;
 }
+
 
